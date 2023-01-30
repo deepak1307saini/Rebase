@@ -1,0 +1,2 @@
+I am in master branch commit 2 adding file 2
+Good Bye!
