@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f79607a-30bf-4592-88fc-49c72f451676" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project1ForTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Custom_Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dispatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearnArrayDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearnSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priority_Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access_modifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map_Learn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package_name/class2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package_one/class1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queueEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vectors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
